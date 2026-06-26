@@ -24,6 +24,7 @@ build/
 .idea/
 *.swp
 *.swo
+*.wav
 
 # OS
 .DS_Store
@@ -37,3 +38,4 @@ Thumbs.db
 tmp/
 temp/
 *.tmp
+.playwright-cli/
